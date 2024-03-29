@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🎓 Pursuing a degree in Computer Science
+- 🌱 Currently learning web development for a semester project
+- 🏓 Pretty good at table tennis
+
 <!--
 **aku47z/aku47z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
