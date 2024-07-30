@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 Pursuing a degree in Computer Science
-- 🌱 Currently learning web development for a semester project
+- 🕷️ Currently learning web development from The Odin Project
 - 🏓 Pretty good at table tennis
 
 <!--
