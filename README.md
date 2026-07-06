@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 Pursuing a degree in Computer Science
-- 🕷️ Currently learning ML
+- 🕷️ Currently exploring AI/ML
 - 🏓 Pretty good at table tennis
 
 <!--
